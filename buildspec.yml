@@ -8,7 +8,7 @@ phases:
     commands:
       - echo install
   pre_build:
-   	commands:
+    commands:
       - echo pre_build
   build:
     commands:
